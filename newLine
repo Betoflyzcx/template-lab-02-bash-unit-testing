@@ -1,0 +1,11 @@
+Usage
+
+  cmake3 [options] <path-to-source>
+  cmake3 [options] <path-to-existing-build>
+
+Specify a source directory to (re-)generate a build system for it in the
+current working directory.  Specify an existing build directory to
+re-generate its build system.
+
+Run 'cmake3 --help' for more information.
+
